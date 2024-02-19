@@ -1,2 +1,2 @@
 # Statistics-for-Data-Science-with-Python
-submission week7 
+submission for week7 
